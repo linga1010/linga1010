@@ -1,4 +1,4 @@
-# Hi there, I'm Kajan! 👋
+# Hi there, I'm Lingajan! 👋
 
 🚀 Aspiring Data Scientist | 💡 Full Stack Learner | 🧠 Tech Explorer  
 🎓 Undergraduate @ SLIIT | 🔎 Open to Internships in Tech & Data Science
