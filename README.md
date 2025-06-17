@@ -83,21 +83,21 @@ _Sri Lanka Institute of Information Technology (SLIIT)_
 
 ## 📊 GitHub Stats
 
-![Kajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kajancode&show_icons=true&theme=tokyonight)
+![Kajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linga1010&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajancode&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linga1010&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kajancode&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=linga1010&theme=onedark)
 
 ---
 
 ## 📈 Contribution Graph
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kajancode&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=linga1010&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
